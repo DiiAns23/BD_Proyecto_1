@@ -1,0 +1,4 @@
+DROP TABLE ciudad;
+DROP TABLE pais;
+DROP TABLE 
+COMMIT;
