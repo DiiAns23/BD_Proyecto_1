@@ -184,6 +184,3 @@ CREATE TABLE renta (
     FOREIGN KEY (id_empleado) REFERENCES empleado (id_empleado),
     FOREIGN KEY (id_pelicula) REFERENCES pelicula (id_pelicula)
 );
-
---Comentario No. 1
---Comentario No. 2
